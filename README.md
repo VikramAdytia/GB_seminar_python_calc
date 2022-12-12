@@ -2,4 +2,4 @@
  
 ## participants
 
-VikramAdytia- Ip branch - Ivan Pantiukhov
+VikramAdytia- Ip branch - Ivan Pantiukhov avalible hours  0600 - 0800 , 1700 - 2210
