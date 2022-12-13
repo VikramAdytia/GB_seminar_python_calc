@@ -4,7 +4,9 @@ from fractions import Fraction
 
 
 import model 
-import view 
+import view
+import logger
+
 
 def button_click():
     value_a = view.get_value() 
@@ -13,3 +15,4 @@ def button_click():
     model.init(value_a, value_b, operator)
     result = model.do_it() 
     view.view_data(result)
+    logger.logger(value_a, value_b, operator, result)
