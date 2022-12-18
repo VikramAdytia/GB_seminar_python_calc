@@ -22,3 +22,6 @@ def get_operator():
             return b
         else:
             print('Некорректный ввод.')   
+
+def view_result(data, result):
+    print(f'\nРезультат: {data} = {result}\n')
